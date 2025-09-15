@@ -1,6 +1,6 @@
 # GAPS1
 Lab 2 gestion de versiones 2025-II
-Team LURAFE
+Team LURAFRE
 
 Work Team:
 	-Luis Eduardo Cardona Pazmino, lucardonapa@unal.edu.co
